@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">K BUS</string>
+    <string name="tab_text_1">HOME</string>
+    <string name="tab_text_2">CONTACT</string>
+    <string name="dialog_message">BOOK TICKET</string>
+    <string name="dialog_title">K BUS</string>
+    <string name="spinner_title">spinner</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
