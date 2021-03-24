@@ -1,5 +1,5 @@
 # K-BUS-TRAVELS
-It is a mobile app for booking the bus ticket in online.<br>
+It is a mobile app for booking the bus tickets in online.<br>
 
 for this project to run you know have some basics about how to run android studio,java,xml.<br>
 
