@@ -24,7 +24,7 @@ Sample Screenshots:<br>
 ![alt text](https://github.com/Karthikeyan2212/K-BUS-TRAVELS/blob/master/outputs/Output%204.jpeg?raw=true)
 <br><br>
 5.In my database user details are stored.<br><br>
-![alt text](https://github.com/Karthikeyan2212/K-BUS-TRAVELS/blob/master/outputs/Output%2011.jpeg?raw=true)
+![alt text](https://github.com/Karthikeyan2212/K-BUS-TRAVELS/blob/master/outputs/Output%2013.jpeg?raw=true)
 <br><br>
 6.Enter the login credentials<br><br>
 ![alt text](https://github.com/Karthikeyan2212/K-BUS-TRAVELS/blob/master/outputs/Output%205.jpeg?raw=true)
