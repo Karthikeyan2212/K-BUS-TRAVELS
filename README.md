@@ -35,7 +35,7 @@ Sample Screenshots:<br>
 8.Listing all the buses with their details.<br><br>
 ![alt text](https://github.com/Karthikeyan2212/K-BUS-TRAVELS/blob/master/outputs/Output%207.jpeg?raw=true)
 <br><br>
-9.Select one bus for travel then it will go to booking page.<br><br>
+9.Contact details about our application.<br><br>
 ![alt text](https://github.com/Karthikeyan2212/K-BUS-TRAVELS/blob/master/outputs/Output%208.jpeg?raw=true)
 <br><br>
 10.Give the passenger details.<br><br>
