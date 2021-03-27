@@ -12,7 +12,7 @@ How to Run:<br>
 6.finally run the code and enjoy it.<br>
 
 Sample Screenshots:<br>
-1.Screen page<br><br>
+1.Welcome page of K BUS TRAVELS<br><br>
 ![alt text](https://github.com/Karthikeyan2212/K-BUS-TRAVELS/blob/master/outputs/Output%201.jpeg?raw=true)
 <br><br>
 2.Login Page<br><br>
@@ -20,11 +20,11 @@ Sample Screenshots:<br>
 3.Sign up for creating account to the user<br><br>
 ![alt text](https://github.com/Karthikeyan2212/K-BUS-TRAVELS/blob/master/outputs/Output%203.jpeg?raw=true)
 <br><br>
-4.After creating account successfully It will display message like "Account Created Successfully"<br><br>
+4.After creating account successfully It will display message like "Account Created Successfully" at the bottom<br><br>
 ![alt text](https://github.com/Karthikeyan2212/K-BUS-TRAVELS/blob/master/outputs/Output%204.jpeg?raw=true)
 <br><br>
-5.In my database user details are stored.<br><br>
-![alt text](https://github.com/Karthikeyan2212/K-BUS-TRAVELS/blob/master/outputs/Output%2013.jpeg?raw=true)
+5.In my database,user details are stored.<br><br>
+![alt text](https://github.com/Karthikeyan2212/K-BUS-TRAVELS/blob/master/outputs/Output%2013.jpg?raw=true)
 <br><br>
 6.Enter the login credentials<br><br>
 ![alt text](https://github.com/Karthikeyan2212/K-BUS-TRAVELS/blob/master/outputs/Output%205.jpeg?raw=true)
@@ -41,7 +41,7 @@ Sample Screenshots:<br>
 10.Give the passenger details.<br><br>
 ![alt text](https://github.com/Karthikeyan2212/K-BUS-TRAVELS/blob/master/outputs/Output%209.jpeg?raw=true)
 <br><br>
-11.Finally it will be booked and it will display message like "Booked Successfully"<br><br>
+11.Finally it will be booked and it will display message like "Booked Successfully" at the bottom.<br><br>
 ![alt text](https://github.com/Karthikeyan2212/K-BUS-TRAVELS/blob/master/outputs/Output%2010.jpeg?raw=true)
 <br><br>
 12.Passenger details are stored in my database.<br><br>
